@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About
-permalink: /resume/
+permalink: /cvfaioli/
 notitle: true
 ---
 # Biography
@@ -32,7 +32,7 @@ Possuo vasta experiência atuando em projetos, liderança técnica, administraç
 
 # Links
 <div style="text-align: left">
-    <a class="resume" href="{{ site.baseurl }}/resources/content/resume.pdf" target="_blank">
+    <a class="cvfaioli" href="{{ site.baseurl }}/resources/content/cvfaioli.pdf" target="_blank">
       <i class="fa fa-download"></i> CV
     </a>
     <a class="link" href="mailto:thiago@tcpip.net.br" target="_blank">
