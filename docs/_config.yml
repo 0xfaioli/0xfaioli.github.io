@@ -1,0 +1,15 @@
+# Site settings
+title: Thiago Faioli
+email: thiago.faioli@tcpip.net.br
+description: >
+  Hi, I'm Faioli! Here, I write on topics related to programming, development, open source and anything related to my line of work.
+baseurl: ""
+url: "http://0xfaioli.github.io"
+twitter_username: ttfx_
+github_username: 0xfaioli
+
+# Build settings
+markdown: redcarpet
+
+redcarpet:
+  extensions: ["tables", "autolink", "strikethrough", "space_after_headers", "fenced_code_blocks"]
